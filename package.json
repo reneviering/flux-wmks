@@ -1,0 +1,23 @@
+{
+  "name": "flux-wmks",
+  "version": "1.0.0",
+  "description": "flux introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revrng/flux-wmks.git"
+  },
+  "author": "René Viering, Christian Kühl",
+  "keywords": "flux introduction",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revrng/flux-wmks/issues"
+  },
+  "homepage": "https://github.com/revrng/flux-wmks#readme",
+  "dependencies": {
+    "reveal-md": "0.0.19"
+  }
+}
